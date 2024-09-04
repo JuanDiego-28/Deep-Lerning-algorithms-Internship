@@ -14,19 +14,18 @@ Features:
 
 Technologies Used:
 
-    TensorFlow: A popular open-source machine learning framework used for model development and training.
-    Keras: A high-level API for building and training deep learning models, simplifying the development process.
-    PyTorch: Another popular open-source machine learning library, used for model implementation and optimization.
-    Pandas: A powerful data manipulation and analysis library for data preprocessing and handling.
-    NumPy: A fundamental library for numerical computing in Python, used for array operations and mathematical calculations.
-    NetworkX: A library for creating, manipulating, and analyzing graphs, potentially used for visualizing network structures within the cell images.
+    *TensorFlow: A popular open-source machine learning framework used for model development and training.
+    *Keras: A high-level API for building and training deep learning models, simplifying the development process.
+    *PyTorch: Another popular open-source machine learning library, used for model implementation and optimization.
+    *Pandas: A powerful data manipulation and analysis library for data preprocessing and handling.
+    *NumPy: A fundamental library for numerical computing in Python, used for array operations and mathematical calculations.
+    *NetworkX: A library for creating, manipulating, and analyzing graphs, potentially used for visualizing network structures within the cell images.
 
 Getting Started:
 
     Install Python 3.6 or higher.
     Install the required packages using pip install -r requirements.txt.
     Download the cell image dataset and ensure it's organized according to the project structure.
-    Run the main script using python main.py.
 
 
 Author:
